@@ -1,5 +1,4 @@
 <p float="left">
-    <img src="./assets/screenshot_1.png" width="250">
 	<img src="./assets/screenshot_2.png" width="250">
 	<img src="./assets/screenshot_3.png" width="250">
     <img src="./assets/screenshot_4.png" width="250">
